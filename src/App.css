@@ -1,0 +1,18 @@
+
+.item-center{
+    text-align: left;
+}
+input{
+    width: 100%;
+    padding: 10px;
+}
+.kgbtn{
+    min-width: 100px;
+}
+.todo-container .kgrow{
+    margin-top: 10px;
+}
+.todo-container .text{
+  font-weight: 400;
+  font-size: 20px;
+}
